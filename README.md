@@ -1,0 +1,1 @@
+a project collection learning javascript following https://www.udemy.com/course/javascript-zero-to-expert-the-complete-modern-guide-build-real-apps
